@@ -582,6 +582,8 @@ DE](https://www.alphaspread.com/de/livewire-d9d06e2d/update) [Español\\
 ES](https://www.alphaspread.com/es/livewire-d9d06e2d/update)
 
 [Settings](https://www.alphaspread.com/settings)
+Interface sounds
+
 
 By using Alpha Spread you are agreeing to our [Terms of Service](https://www.alphaspread.com/terms-of-service) and [Privacy Policy](https://www.alphaspread.com/privacy-policy).
 
