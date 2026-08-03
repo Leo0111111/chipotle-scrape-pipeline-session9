@@ -3,6 +3,14 @@ source: https://ir.chipotle.com/
 title: Chipotle Mexican Grill
 ---
 
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
 # Home
 
 ![](https://ir.chipotle.com/images/Events.png)
@@ -10,6 +18,12 @@ title: Chipotle Mexican Grill
 RECENT NEWS
 
 [Alerts](https://ir.chipotle.com/alerts)
+
+Jul 29, 2026
+
+[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM](https://ir.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
+
+"RECIPE FOR GROWTH" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle...
 
 [![](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&p=thumbnail)](https://ir.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
 
@@ -27,19 +41,13 @@ Jun 2, 2026
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial results and provide a business update for the...
 
-Apr 29, 2026
-
-[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
-
-RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 /PRNewswire/ -- Chipotle Mexican Grill,...
-
 [Read More](https://ir.chipotle.com/Financial-Releases)
 
 NYSECMG
 
-$31.79
+$37.22
 
--$0.22
+-$1.30
 
 Currency in USD.
 
