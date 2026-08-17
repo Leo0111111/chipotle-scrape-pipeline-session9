@@ -35,9 +35,9 @@ Social Media Links
 
 REPORT RATINGS
 
-4.6 / 5.0 (204)
+4.6 / 5.0 (206)
 
-Chipotle Mexican Grill Inc. reports have an aggregate usefulness score of 4.6 based on 204 reviews.
+Chipotle Mexican Grill Inc. reports have an aggregate usefulness score of 4.6 based on 206 reviews.
 
 ![](https://www.annualreports.com/img/profile_premiumBadge.webp)Chipotle Mexican Grill Inc.
 
@@ -45,17 +45,20 @@ Chipotle Mexican Grill Inc. reports have an aggregate usefulness score of 4.6 ba
 
 ![Chipotle Mexican Grill Inc.](https://www.annualreports.com/HostedData/_ar_prvw/24231.webp)
 
-MOST RECENT2024 Annual Report and Form 10K
+MOST RECENT2025 Annual Report and Form 10K
 
 [View PDF](https://www.annualreports.com/Click/24231) [View Form 10K(HTML)](https://www.annualreports.com/Click/7951)
 
-## View 2023 Sustainability Report
+## View 2025 Sustainability Report
 
 [This company has a Sustainability Report available to view on our partner site, ResponsibilityReports.com](https://www.responsibilityreports.com/Company/chipotle-mexican-grill-inc)
 
 [![](https://www.annualreports.com/img/ar/sustainability_report_go_icon.webp)](https://www.responsibilityreports.com/Company/chipotle-mexican-grill-inc "View the latest Chipotle Mexican Grill Inc. sustainability report")
 
 ## Older/Archived Annual Reports
+
+- ![Chipotle Mexican Grill Inc.](https://www.annualreports.com/HostedData/_ara_prvw/152249.webp)
+2024 Annual Report[View Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/c/NYSE_CMG_2024.pdf "View 2024 Annual Report (PDF)")[Download](https://www.annualreports.com/HostedData/AnnualReportArchive/c/NYSE_CMG_2024.pdf)
 
 - ![Chipotle Mexican Grill Inc.](https://www.annualreports.com/HostedData/_ara_prvw/144138.webp)
 2023 Annual Report[View Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/c/NYSE_CMG_2023.pdf "View 2023 Annual Report (PDF)")[Download](https://www.annualreports.com/HostedData/AnnualReportArchive/c/NYSE_CMG_2023.pdf)
@@ -115,7 +118,7 @@ MOST RECENT2024 Annual Report and Form 10K
 2005 Annual Report[View Annual Report](https://www.annualreports.com/HostedData/AnnualReportArchive/c/NYSE_CMG_2005.pdf "View 2005 Annual Report (PDF)")[Download](https://www.annualreports.com/HostedData/AnnualReportArchive/c/NYSE_CMG_2005.pdf)
 
 
-Show 16 older reports
+Show 17 older reports
 
 [x](https://www.annualreports.com/Company/chipotle-mexican-grill-inc "Close")
 
