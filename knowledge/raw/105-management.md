@@ -91,7 +91,7 @@ Chief Legal and Human Resources Officer
 
 Prior to joining Chipotle, Ms. Eskenazi served as the Chief Legal and Human Resources Officer for Petco Health and Wellness Company, where she oversaw compensation and benefits, human resources operations, talent management, as well as all legal matters. Before moving to Petco, Ms. Eskenazi was the Global General Counsel and Chief Human Resources Officer at Boardriders, Inc. (previously Quiksilver, Inc.). She also held the post of Chief Legal Officer and Senior Vice President of Talent Operations and Performance at True Religion Apparel, Inc. as well as senior leadership positions at Red Bull North America, Inc. and The Wonderful Company.
 
-Ms. Eskenazi serves on the Board of Directors of a.k.a. Brands Holding Corp. She holds a Juris Doctorate from the University of California, Los Angeles’ School of Law as well as a Bachelor of Arts degree in philosophy from the University of Michigan.
+Ms. Eskenazi holds a Juris Doctorate from the University of California, Los Angeles’ School of Law as well as a Bachelor of Arts degree in philosophy from the University of Michigan.
 
 |     |
 | --- |

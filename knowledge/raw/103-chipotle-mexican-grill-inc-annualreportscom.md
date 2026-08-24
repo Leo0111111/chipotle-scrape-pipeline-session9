@@ -35,9 +35,9 @@ Social Media Links
 
 REPORT RATINGS
 
-4.6 / 5.0 (205)
+4.6 / 5.0 (206)
 
-Chipotle Mexican Grill Inc. reports have an aggregate usefulness score of 4.6 based on 205 reviews.
+Chipotle Mexican Grill Inc. reports have an aggregate usefulness score of 4.6 based on 206 reviews.
 
 ![](https://www.annualreports.com/img/profile_premiumBadge.webp)Chipotle Mexican Grill Inc.
 
