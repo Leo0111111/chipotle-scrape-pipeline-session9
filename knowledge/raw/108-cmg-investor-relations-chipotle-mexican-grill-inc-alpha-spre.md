@@ -433,13 +433,11 @@ CALIFORNIA
 
 Newport Beach
 
-610 Newport Center Dr, Suite 1400
+610 Newport Center Dr.
 
-+19495244000.0
++18009279800
 
 [www.chipotle.com](https://www.chipotle.com/)
-
-BESbswy
 
 [sparklesyt](https://linktr.ee/sparklesyt)
 
@@ -453,12 +451,7 @@ C9F](https://www.alphaspread.com/security/xetra/c9f/summary) [F\\
 EUR\\
 \\
 \\
-C9F](https://www.alphaspread.com/security/f/c9f/summary) [XBER\\
-•\\
-EUR\\
-\\
-\\
-C9F](https://www.alphaspread.com/security/xber/c9f/summary) [BMV\\
+C9F](https://www.alphaspread.com/security/f/c9f/summary) [BMV\\
 •\\
 MXN\\
 \\
@@ -546,42 +539,28 @@ By using Alpha Spread you are agreeing to our
 \\
 CMG](https://www.alphaspread.com/security/nyse/cmg/summary)
 
-Get AI-powered insights for any company or topic.
+Search stocks here...
 
 
-[Open AI Assistant](https://www.alphaspread.com/ai-assistant)
+### Tools
 
-[**Stock Screener**\\
-\\
-Discover stocks](https://www.alphaspread.com/stock-screener/new) [**Stock Comparison**\\
-\\
-Smarter decisions through side-by-side analysis](https://www.alphaspread.com/stock-comparison) [**Intrinsic Value Calculator**\\
-\\
-Discover the true worth of your stocks](https://www.alphaspread.com/intrinsic-value-calculator) [**DCF Value Calculator**\\
-\\
-Harness the power of DCF](https://www.alphaspread.com/dcf-value-calculator)
+[Stock Screener](https://www.alphaspread.com/stock-screener/new) [Compare stocks](https://www.alphaspread.com/stock-comparison) [Intrinsic value](https://www.alphaspread.com/intrinsic-value-calculator) [DCF calculator](https://www.alphaspread.com/dcf-value-calculator)
 
-**Intrinsic Value** is all-important and is the only logical way to evaluate the relative attractiveness of investments and businesses.
+[AI AssistantAsk. Research. Understand.](https://www.alphaspread.com/ai-assistant)[MCP integrationAlpha Spread in your AIBring our valuations into ChatGPT, Claude, and Codex.See how to connect](https://www.alphaspread.com/ai-integrations)
 
+### Preferences
 
-[![](https://ik.imagekit.io/kkbzr2uz4cp/stock/nyse/cmg.png)\\
-\\
-CMG](https://www.alphaspread.com/security/nyse/cmg/summary)
-
-[Sign Up](https://www.alphaspread.com/registration) [Log in](https://www.alphaspread.com/login)
-
-[Dashboard](https://www.alphaspread.com/dashboard) [AI Assistant](https://www.alphaspread.com/ai-assistant) [Stock Comparison](https://www.alphaspread.com/stock-comparison) [Intrinsic Value Calculator](https://www.alphaspread.com/intrinsic-value-calculator) [DCF Value Calculator](https://www.alphaspread.com/dcf-value-calculator) [Stock Screener](https://www.alphaspread.com/stock-screener/new)
-
-[Pricing](https://www.alphaspread.com/service-pricing) [Market News](https://www.alphaspread.com/market-news) [Investing Ideas](https://www.alphaspread.com/investing-ideas)
-
+Language
 English
-EN [Deutsch\\
-DE](https://www.alphaspread.com/de/livewire-d9d06e2d/update) [Español\\
-ES](https://www.alphaspread.com/es/livewire-d9d06e2d/update)
 
-[Settings](https://www.alphaspread.com/settings)
+Deutsch
+
+Español
+
 Interface sounds
 
+
+[Help center](https://kb.alphaspread.com/)
 
 WHAT’S NEW
 
