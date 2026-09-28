@@ -3,14 +3,6 @@ source: https://ir.chipotle.com/management
 title: Management - Chipotle Mexican Grill
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
 # Management
 
 The information provided below about Chipotle is intended to provide additional information for our investor community.  Chipotle does not warrant that this information is full or complete and investors should rely on their own resources for complete research.
@@ -45,7 +37,7 @@ Mr. Rymer has a Bachelor of Business Administration degree in finance from the U
 
 |     |
 | --- |
-| ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_CurtGarner320x320.jpg) |
+| ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_Curt_Garner_320px.jpg) |
 
 [Curt Garner](https://ir.chipotle.com/undefined)
 
