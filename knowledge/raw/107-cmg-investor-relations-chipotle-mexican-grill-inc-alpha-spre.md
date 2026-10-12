@@ -13,6 +13,8 @@ Watchlist Manager
 Watchlist
 
 
+Company OverviewEarnings Calls·Investor Relations
+
 ![](https://ik.imagekit.io/kkbzr2uz4cp/icon/alert-light.svg)
 
 ![](https://ik.imagekit.io/kkbzr2uz4cp/icon/circuit-ai-light.svg)
@@ -439,6 +441,8 @@ Newport Beach
 
 [www.chipotle.com](https://www.chipotle.com/)
 
+BESbswy
+
 [sparklesyt](https://linktr.ee/sparklesyt)
 
 [XETRA\\
@@ -474,6 +478,47 @@ USD\\
 0HXW](https://www.alphaspread.com/security/lse/0hxw/summary)
 
 Back to Top
+
+
+Search stocks here...
+
+
+### Tools
+
+[Stock Screener](https://www.alphaspread.com/stock-screener/new) [Compare stocks](https://www.alphaspread.com/stock-comparison) [Intrinsic value](https://www.alphaspread.com/intrinsic-value-calculator) [DCF calculator](https://www.alphaspread.com/dcf-value-calculator)
+
+[AI AssistantAsk. Research. Understand.](https://www.alphaspread.com/ai-assistant)[MCP integrationAlpha Spread in your AIBring our valuations into ChatGPT, Claude, and Codex.See how to connect](https://www.alphaspread.com/ai-integrations)
+
+### Preferences
+
+Language
+English
+
+Deutsch
+
+Español
+
+简体中文
+
+हिन्दी
+
+Interface sounds
+
+
+[Help center](https://kb.alphaspread.com/)
+
+WHAT’S NEW
+
+Some valuations may look different as a result.
+
+We rebuilt our DCF valuation models from the ground up and upgraded how Intrinsic Value is calculated. Alpha Spread now selects the method that best fits each company.
+
+
+You can now see how the new methodology performed across thousands of stocks on our new [Valuation Backtest page](https://www.alphaspread.com/stock-valuation-backtest). We update the results at the end of every month.
+
+
+[See backtest results](https://www.alphaspread.com/stock-valuation-backtest)
+Got it
 
 
 AI-generated answers can contain mistakes, outdated facts, or incomplete information. Always verify important details before making decisions.
@@ -538,43 +583,6 @@ By using Alpha Spread you are agreeing to our
 [![](https://ik.imagekit.io/kkbzr2uz4cp/stock/nyse/cmg.png)\\
 \\
 CMG](https://www.alphaspread.com/security/nyse/cmg/summary)
-
-Search stocks here...
-
-
-### Tools
-
-[Stock Screener](https://www.alphaspread.com/stock-screener/new) [Compare stocks](https://www.alphaspread.com/stock-comparison) [Intrinsic value](https://www.alphaspread.com/intrinsic-value-calculator) [DCF calculator](https://www.alphaspread.com/dcf-value-calculator)
-
-[AI AssistantAsk. Research. Understand.](https://www.alphaspread.com/ai-assistant)[MCP integrationAlpha Spread in your AIBring our valuations into ChatGPT, Claude, and Codex.See how to connect](https://www.alphaspread.com/ai-integrations)
-
-### Preferences
-
-Language
-English
-
-Deutsch
-
-Español
-
-Interface sounds
-
-
-[Help center](https://kb.alphaspread.com/)
-
-WHAT’S NEW
-
-Some valuations may look different as a result.
-
-We rebuilt our DCF valuation models from the ground up and upgraded how Intrinsic Value is calculated. Alpha Spread now selects the method that best fits each company.
-
-
-You can now see how the new methodology performed across thousands of stocks on our new [Valuation Backtest page](https://www.alphaspread.com/stock-valuation-backtest). We update the results at the end of every month.
-
-
-[See backtest results](https://www.alphaspread.com/stock-valuation-backtest)
-Got it
-
 
 By using Alpha Spread you are agreeing to our [Terms of Service](https://www.alphaspread.com/terms-of-service) and [Privacy Policy](https://www.alphaspread.com/privacy-policy).
 

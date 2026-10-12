@@ -7,13 +7,13 @@ title: Chipotle Mexican Grill Executive Team & Leadership - Exa
 
 Company
 
-[Datasets](https://websets.exa.ai/websets/datasets) [API](https://exa.ai/docs/websets/api/overview) [Directory](https://websets.exa.ai/websets/directory) [Pricing](https://websets.exa.ai/websets/billing)
+[Datasets](https://websets.exa.ai/websets/datasets) [API](https://exa.ai/docs/agent/quickstart) [Directory](https://websets.exa.ai/websets/directory) [Pricing](https://websets.exa.ai/websets/billing)
 
 [Sign in](https://websets.exa.ai/auth/signin)
 
 # chipotle Executives \| Leadership Team & Company Leadership
 
-DateOctober 5, 2026
+DateOctober 12, 2026
 
 C
 
@@ -173,7 +173,7 @@ JSON
 
 Expand full outputCopy output preview
 
-Choose a plan
+## Websets pricing
 
 ### Starter
 
