@@ -164,9 +164,11 @@ Chipotle
 
 Search any public company...
 
-Your earnings  season toolkit. [Download](https://quartr.com/download?source=premium-adspot)
+Cover every name on your watchlist this earnings season.
 
-Free on both iOS & Android.
+Automations, AI chat, and live calls across 16,000+ companies. [Book demo](https://quartr.com/contact-sales?source=premium-adspot)
+
+![](https://a.storyblok.com/f/182663/91052/5afc0fe6d3/4x5-assets_min.webp/m/1920x0/filters:quality(100))
 
 ## NextChipotleearnings date
 
