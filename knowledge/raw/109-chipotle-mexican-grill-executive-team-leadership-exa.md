@@ -13,7 +13,7 @@ Company
 
 # chipotle Executives \| Leadership Team & Company Leadership
 
-DateOctober 26, 2026
+DateNovember 2, 2026
 
 C
 
@@ -27,7 +27,7 @@ Chipotle Mexican Grill, Inc. was founded by Steve Ells on July 13, 1993. It is a
 
 This page is built with [Exa](https://exa.ai/), a web search API for AI agents. It is updated every 24 hours.
 
-[Try it yourself](https://dashboard.exa.ai/onboarding) [Read the docs](https://exa.ai/docs/reference/agent-api-guide)
+[Try it yourself](https://dashboard.exa.ai/onboarding) [Read the docs](https://exa.ai/docs/agent/quickstart)
 
 # 10 Key Chipotle Mexican Grill, Inc. Executives
 
@@ -113,7 +113,7 @@ This page is built with [Exa](https://exa.ai/), a web search API for AI agents. 
 
 Exa searches the web, extracts relevant source content, and returns structured outputs with citations.
 
-[Try it yourself](https://dashboard.exa.ai/onboarding) [Read the docs](https://exa.ai/docs/reference/agent-api-guide)
+[Try it yourself](https://dashboard.exa.ai/onboarding) [Read the docs](https://exa.ai/docs/agent/quickstart)
 
 #### How it works
 

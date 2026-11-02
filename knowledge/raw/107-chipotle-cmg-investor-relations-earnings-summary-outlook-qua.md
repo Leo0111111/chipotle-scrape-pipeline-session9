@@ -11,70 +11,66 @@ Chipotle
 
 # Chipotle (CMG) investor relations material
 
-## ChipotleQ2 2026 earnings summary
+## ChipotleQ3 2026 earnings summary
 
 Complete event summary combining all related documents: earnings call transcript, report, and slide presentation.
 
 ![Logotype for Chipotle Mexican Grill Inc](https://assets.quartr.com/_next/image?url=https%3A%2F%2Ffiles.quartr.com%2Fcompany-icons%2F89a99caca91be94cab7e208130534d51-2026-08-18-07-08-49.png%3Fref%3DZG90Y29t&w=96&q=100)
 
-Q2 2026 earnings summary29 Jul, 2026
+Q3 2026 earnings summary28 Oct, 2026
 
 ### Executive summary
 
-- Total revenue for Q2 2026 grew 9.3% year-over-year to $3.35 billion, driven by new restaurant openings, positive comparable sales, and digital engagement, with digital sales accounting for 38.3% of revenue.
+- Q3 revenue rose 9.6% YoY to $3.293B; comparable sales increased 2.1%, with transactions up 0.8% for a third consecutive quarter.
 
-- Comparable restaurant sales increased 2.2%, supported by menu innovation, marketing, and higher average check and transaction growth.
+- Recipe for Growth initiatives advanced across restaurant execution, digital engagement, menu innovation, people development and global expansion.
 
-- The "Recipe for Growth" strategy, emphasizing operational excellence, digital innovation, menu development, talent cultivation, and global expansion, is delivering tangible results.
-
-- 100 new company-owned restaurants (80 with Chipotlanes) and one international partner-operated location opened in Q2 2026.
-
-- Net income for Q2 2026 was $403.5 million, down from $436.1 million in Q2 2025, with diluted EPS flat at $0.32 and adjusted diluted EPS at $0.33.
+- Sales trends faced low-single-digit headwinds beginning in July amid consumer, food safety and geopolitical concerns, returning to prior levels by late August; October demand later softened with industry trends.
 
 
 ### Financial highlights
 
-- Restaurant-level operating margin was 25.2%, down from 27.4% year-over-year, and operating margin declined to 15.7% from 18.2%.
+- Net income was $339.9M vs. $382.1M; operating income was $452.0M vs. $477.2M, and diluted EPS was $0.27 vs. $0.29.
 
-- Food, beverage, and packaging costs rose to 29.7% of revenue, mainly due to beef and freight inflation.
+- Digital sales were $1.3B, or 38.8% of food and beverage revenue vs. 36.7% YoY.
 
-- Labor costs increased to 25.0% of revenue, driven by wage inflation and performance bonuses.
+- Restaurant-level operating margin was 23.3% vs. 24.5%; food, beverage and packaging costs were 29.5%, labor 25.7% and other operating costs 16.0% of revenue.
 
-- Adjusted net income for Q2 2026 was $418.9 million; adjusted diluted EPS was $0.33.
-
-- Digital sales reached $1.3 billion, accounting for 38.3% of total sales.
+- GAAP G&A was $185M and non-GAAP G&A was $184M; depreciation was 3.1% of sales and the effective tax rate was 25.6%.
 
 
 ### Outlook and guidance
 
-- Full-year comparable sales growth guidance raised to the low single-digit range.
+- FY2026 comparable sales guidance remains low single-digit; 2026 openings are expected at 350–370, including 10–15 partner-operated locations, with ~80% of new company-owned restaurants planned to have a Chipotlane.
 
-- Plans for 350–370 new restaurant openings in 2026, including 10–15 international partner-operated units; about 80% of new company-owned restaurants will feature a Chipotlane.
+- Q4 comps are expected around +2%, with a potential 3%–4% exit rate; Q4 restaurant-level margin is expected just under 22%, ~150 bps lower YoY.
 
-- Q3 comps anticipated around +1%, factoring in a 200 basis point headwind from industry-wide Cyclospora concerns.
+- FY2026 pricing is expected around 2%, rising to ~3% in Q4; 2027 inflation is expected in the low- to mid-single-digit range.
 
-- Menu pricing impact expected to rise to mid-2% in Q3, with full-year pricing at the high end of the 1%-2% range.
+- 2027 plans call for 340–360 company-owned openings in the U.S. and Canada and 15–25 restaurants outside those markets; no 2027 comp guidance yet.
 
-- Estimated underlying full-year effective tax rate between 24% and 26%.
+- Catering is planned for national rollout in Q1 2027; marketing budget baseline is expected at ~3% in 2027, flexed for return-generating opportunities.
 
 
-HEEP impact on throughput and comparable sales
+Drivers of labor and operating cost inflation
 
-Factors behind restaurant level margin decline
+Impact of Chipotlanes on new-store returns
 
-In-store versus order-ahead loyalty performance
+Impact of $1.465B buybacks on cash and expansion
 
-Drivers of the food cost increase in Q2
+Assess HEEP rollout's throughput and sales impact
 
-Impact of legal reserves on Q2 G&A expenses
+Explain loyalty relaunch and digital sales mix
 
-Role of international partners in 2026 unit growth
+Strategy behind Mexico and Korea partner expansion
 
-HEAP labor reinvestment and throughput gains
+Explain HEEP's throughput gains and comp uplift
 
-Frictionless rewards pilot and throughput impact
+Describe catering rollout and group-sales targets
 
-Global partner-operated expansion strategy
+Assess measured pricing amid 2027 inflation
+
+Detail the 53 Q3 Chipotlane openings
 
 Partial view of Summaries dataset, powered by [Quartr API](https://quartr.com/products/quartr-api?source=companies)
 
@@ -86,6 +82,13 @@ Get started
 
 Latest events fromChipotle
 
+- [![Logotype for Chipotle](https://assets.quartr.com/_next/image?url=https%3A%2F%2Ffiles.quartr.com%2Fcompany-icons%2F89a99caca91be94cab7e208130534d51-2026-08-18-07-08-49.png%3Fref%3DZG90Y29t&w=64&q=100)\\
+\\
+CMG\\
+\\
+Q2 2026\\
+\\
+Q2 2026 revenue up 9.3%, digital sales 38.3%, but margins and net income declined.](https://quartr.com/events/chipotle-mexican-grill-inc-cmg-q2-2026_33d0APz3)
 - [![Logotype for Chipotle](https://assets.quartr.com/_next/image?url=https%3A%2F%2Ffiles.quartr.com%2Fcompany-icons%2F89a99caca91be94cab7e208130534d51-2026-08-18-07-08-49.png%3Fref%3DZG90Y29t&w=64&q=100)\\
 \\
 CMG\\
@@ -142,13 +145,6 @@ CMG\\
 Q2 2024\\
 \\
 Q2 revenue up 18.2%, 11.1% comp sales growth, and 32% EPS increase; outlook remains strong.](https://quartr.com/events/chipotle-mexican-grill-inc-cmg-q2-2024_33d0MVxJ)
-- [![Logotype for Chipotle](https://assets.quartr.com/_next/image?url=https%3A%2F%2Ffiles.quartr.com%2Fcompany-icons%2F89a99caca91be94cab7e208130534d51-2026-08-18-07-08-49.png%3Fref%3DZG90Y29t&w=64&q=100)\\
-\\
-CMG\\
-\\
-Q4 2024\\
-\\
-15% sales growth, record new units, and digital strength support further expansion in 2025.](https://quartr.com/events/chipotle-mexican-grill-inc-cmg-q4-2024_33d0MvY4)
 
 [View more events](https://quartr.com/events)
 
@@ -156,7 +152,7 @@ Q4 2024\\
 
 ![Logotype for Chipotle Mexican Grill Inc](https://assets.quartr.com/_next/image?url=https%3A%2F%2Ffiles.quartr.com%2Fcompany-icons%2F89a99caca91be94cab7e208130534d51-2026-08-18-07-08-49.png%3Fref%3DZG90Y29t&w=96&q=100)
 
-Q3 202628 Oct, 2026
+Q4 20262 Feb, 2027
 
 [Companies](https://quartr.com/companies)
 
@@ -174,163 +170,136 @@ Automations, AI chat, and live calls across 16,000+ companies. [Book demo](https
 
 ![Logotype for Chipotle Mexican Grill Inc](https://assets.quartr.com/_next/image?url=https%3A%2F%2Ffiles.quartr.com%2Fcompany-icons%2F89a99caca91be94cab7e208130534d51-2026-08-18-07-08-49.png%3Fref%3DZG90Y29t&w=96&q=100)
 
-Q3 202628 Oct, 2026
+Q4 20262 Feb, 2027
 
-## The essential earnings season companion
+AI chat
 
-The #1 app for qualitative research. Live earnings calls, AI chat, transcripts, and more. All for free.
+## Ask anything. Verify everything.
 
-###### Live calls and transcripts
+Ask across every event and document from public companies. Each answer links back to the exact line in the transcript, slide or filing it came from. [Learn more](https://quartr.com/products/quartr-pro?source=companies)
 
-Listen to earnings calls, CMDs, investor conferences, and more – with a podcast-like experience.
+### Find what matters
 
-###### Find what you need faster
+AI across all first-party IR material. Live calls, transcripts, slides, filings.
 
-Search for any keyword across all transcripts simultaneously.
+![A cited source card from Adobe's CFO alongside a list of forward-looking statements](https://a.storyblok.com/f/182663/61848/43871038d2/variant-01-pro-chat_sources_min.jpg/m/1920x0/filters:quality(100))
 
-###### Easily store key findings
+### Trust every finding
 
-Capturing important takeaways is as simple as it gets. Even during your lunch run or commute.
+50m+ first-party documents. Every output traceable to its source.
 
-###### Your watchlist. Your dashboard.
+### Find what matters
 
-Follow the companies that matter to you. Get a personalized feed with real-time updates.
+AI across all first-party IR material. Live calls, transcripts, slides, filings.
 
-###### Be the first to know
+![A cited source card from Adobe's CFO alongside a list of forward-looking statements](https://a.storyblok.com/f/182663/61848/43871038d2/variant-01-pro-chat_sources_min.jpg/m/1920x0/filters:quality(100))
 
-Set keyword alerts for any company, product, or competitor. Get notified the moment they're mentioned.
+### Trust every finding
 
-###### Consensus estimates
+50m+ first-party documents. Every output traceable to its source.
 
-Access analyst consensus estimates, valuation multiples, and revenue segments splits.
+Automations
 
-###### All IR material in one place
+## Zero in on what matters
 
-The easiest way to stay updated during earnings season.
+Define the prompt once. It runs the moment a company publishes or on a schedule you set. Outputs map to the exact signals you choose. [Learn more](https://quartr.com/products/quartr-pro?source=companies)
 
-###### Global coverage
+![An automation set to trigger on the first published earnings document for GE Aerospace](https://a.storyblok.com/f/182663/519010/823721cc87/variant-01-pro-automations_scope.png/m/1920x0/filters:quality(85))
 
-All events from public companies. Live and recorded.
+### Event-triggered research
 
-###### Just click and listen
+Runs when a company publishes new material. Trigger on the first published document for the earliest possible run, or wait for a specific one.
 
-No webcast links. No manual registrations.
+![An automation scheduled to run weekly on Mondays at 09:00](https://a.storyblok.com/f/182663/601245/b3b0ed4932/variant-01-pro-automations_schedule.png/m/1920x0/filters:quality(85))
 
-Research anytime, anywhere
+### Scheduled research
 
-Built for professionals. Loved by everyone. Try our free mobile app.
+Runs on a recurring cadence you set. Daily, weekly, monthly, or quarterly, for aggregate reads across a period rather than a single event.
 
-4.8/5
+![An automation set to trigger on the first published earnings document for GE Aerospace](https://a.storyblok.com/f/182663/519010/823721cc87/variant-01-pro-automations_scope.png/m/1920x0/filters:quality(85))
 
-[Download app](https://quartr.com/download?source=companies)
+### Event-triggered research
 
-excellent app, it gives me free access to company earnings calls and annual reports. I also love the convenience of calls being available offline so I can listen in whilst doing other things and even when internet or WiFi isn't available.
+Runs when a company publishes new material. Trigger on the first published document for the earliest possible run, or wait for a specific one.
 
-![App-store-avatar.png play-store-avatar.png](https://a.storyblok.com/f/182663/401x400/98466ef2a2/app-store-avatar.png/m/828x0/filters:quality(85))
+![An automation scheduled to run weekly on Mondays at 09:00](https://a.storyblok.com/f/182663/601245/b3b0ed4932/variant-01-pro-automations_schedule.png/m/1920x0/filters:quality(85))
 
-Leroy DaleyApp Store
+### Scheduled research
 
-One of the very few apps you could call perfect. If something was to add to it, maybe the share price of the company when you search for it, but it's already excellent.
+Runs on a recurring cadence you set. Daily, weekly, monthly, or quarterly, for aggregate reads across a period rather than a single event.
 
-![play-store-avatar](https://a.storyblok.com/f/182663/401x400/8ab2ac3760/play-store-avatar.png/m/828x0/filters:quality(85))
+Live audio & transcripts
 
-Eferix Drawings Google Play
+## Be first
 
-This is genuinely one of the cleanest and fastest finance apps out there to track the market.
+Join any earnings call live in one click, with no manual registration. Follow the transcript as it happens and jump straight to the moments that matter. [Learn more](https://quartr.com/products/quartr-pro?source=companies)
 
-![App-store-avatar.png play-store-avatar.png](https://a.storyblok.com/f/182663/401x400/98466ef2a2/app-store-avatar.png/m/828x0/filters:quality(85))
+![A live LVMH Q2 2026 earnings call playing in Quartr](https://a.storyblok.com/f/182663/554632/01f0cf5eff/variant-01-pro-live_transcript.png/m/1920x0/filters:quality(85))
 
-anuj283App Store
+### Live earnings calls
 
-excellent app, it gives me free access to company earnings calls and annual reports. I also love the convenience of calls being available offline so I can listen in whilst doing other things and even when internet or WiFi isn't available.
+Join any call in one click. The audio keeps playing while you work elsewhere in Quartr.
 
-![App-store-avatar.png play-store-avatar.png](https://a.storyblok.com/f/182663/401x400/98466ef2a2/app-store-avatar.png/m/828x0/filters:quality(85))
+![A live transcript excerpt from LVMH's Chairman and CEO Bernard Arnault](https://a.storyblok.com/f/182663/663026/5d5859aa97/variant-01-pro-live_player.png/m/1920x0/filters:quality(85))
 
-Leroy DaleyApp Store
+### Live transcripts
 
-One of the very few apps you could call perfect. If something was to add to it, maybe the share price of the company when you search for it, but it's already excellent.
+Speaker-by-speaker, in real time. Searchable across every live and historical call.
 
-![play-store-avatar](https://a.storyblok.com/f/182663/401x400/8ab2ac3760/play-store-avatar.png/m/828x0/filters:quality(85))
+![A live LVMH Q2 2026 earnings call playing in Quartr](https://a.storyblok.com/f/182663/554632/01f0cf5eff/variant-01-pro-live_transcript.png/m/1920x0/filters:quality(85))
 
-Eferix Drawings Google Play
+### Live earnings calls
 
-This is genuinely one of the cleanest and fastest finance apps out there to track the market.
+Join any call in one click. The audio keeps playing while you work elsewhere in Quartr.
 
-![App-store-avatar.png play-store-avatar.png](https://a.storyblok.com/f/182663/401x400/98466ef2a2/app-store-avatar.png/m/828x0/filters:quality(85))
+![A live transcript excerpt from LVMH's Chairman and CEO Bernard Arnault](https://a.storyblok.com/f/182663/663026/5d5859aa97/variant-01-pro-live_player.png/m/1920x0/filters:quality(85))
 
-anuj283App Store
+### Live transcripts
 
-I can't remember the last time an app had such a positive impact on my investment process.
+Speaker-by-speaker, in real time. Searchable across every live and historical call.
 
-![x-avatar](https://a.storyblok.com/f/182663/401x400/19a47fd1e3/x-avatar.png/m/828x0/filters:quality(85))
+## Quartr MCP connects your AI environment to 17K+ public companies
 
-@ankurshah47\_ x.com
+Pull live transcripts, filings, and slides into Claude or Codex via MCP. Combine Quartr's global IR data with any other dataset. Run agentic research and monitoring.
 
-Love the app! Quartr makes it really easy to keep track of earnings calls. It also includes the reports and slides to make it easier to follow along.
+Included with Quartr Pro at no extra cost. [Learn more](https://quartr.com/mcp?source=companies)
 
-![App-store-avatar.png play-store-avatar.png](https://a.storyblok.com/f/182663/401x400/98466ef2a2/app-store-avatar.png/m/828x0/filters:quality(85))
+> Quartr's AI stands out because it only pulls clean, first-party data from public companies.
+> In investing, that's everything.
 
-Amina0781App Store
+Jamie Ross
 
-Quartr is amazing, no way around it. It is the best right now for earnings calls, presentations, and the like.
+Investment Manager, GAM Investments
 
-![x-avatar](https://a.storyblok.com/f/182663/401x400/19a47fd1e3/x-avatar.png/m/828x0/filters:quality(85))
+GAM
 
-@theshortbearx.com
+GAM
 
-I can't remember the last time an app had such a positive impact on my investment process.
+> Research that used to take hours now takes seconds with Quartr Pro. Tracking shifts in tone or extracting tables, it's as simple as typing a query.
 
-![x-avatar](https://a.storyblok.com/f/182663/401x400/19a47fd1e3/x-avatar.png/m/828x0/filters:quality(85))
+Tom O'Hara
 
-@ankurshah47\_ x.com
+Investment Director
 
-Love the app! Quartr makes it really easy to keep track of earnings calls. It also includes the reports and slides to make it easier to follow along.
+Ciena
 
-![App-store-avatar.png play-store-avatar.png](https://a.storyblok.com/f/182663/401x400/98466ef2a2/app-store-avatar.png/m/828x0/filters:quality(85))
+Ciena
 
-Amina0781App Store
+> Before Quartr we spent hours manually compiling insights through the peer earnings cycle. Now, these tasks are done faster, with greater precision.
 
-Quartr is amazing, no way around it. It is the best right now for earnings calls, presentations, and the like.
+Gregg Lampf
 
-![x-avatar](https://a.storyblok.com/f/182663/401x400/19a47fd1e3/x-avatar.png/m/828x0/filters:quality(85))
+VP of Investor Relations
 
-@theshortbearx.com
+Protean
 
-I’m actually shocked at just how much I like Quartr. If you’re an analyst & need a strong web tool + mobile app that syncs properly, saves you from manually dialing into calls.
+Protean
 
-![x-avatar](https://a.storyblok.com/f/182663/401x400/19a47fd1e3/x-avatar.png/m/828x0/filters:quality(85))
+> Being able to ask specific questions across years of transcripts and reports and instantly get verified answers is a game-changer.
 
-@endthepods x.com
+Pontus Dackmo
 
-A must have for every investor. includes all quarterly reports with earnings calls and transcripts in single app
-
-![play-store-avatar](https://a.storyblok.com/f/182663/401x400/8ab2ac3760/play-store-avatar.png/m/828x0/filters:quality(85))
-
-Abdulla AlnaamaGoogle Play
-
-Efficient UI/UX. Prior to Quartr I didn’t spend enough time on earnings calls. The features and UI make easy to dedicate time getting in the weeds using transcripts.
-
-![App-store-avatar.png play-store-avatar.png](https://a.storyblok.com/f/182663/401x400/98466ef2a2/app-store-avatar.png/m/828x0/filters:quality(85))
-
-YJhLoApp Store
-
-I’m actually shocked at just how much I like Quartr. If you’re an analyst & need a strong web tool + mobile app that syncs properly, saves you from manually dialing into calls.
-
-![x-avatar](https://a.storyblok.com/f/182663/401x400/19a47fd1e3/x-avatar.png/m/828x0/filters:quality(85))
-
-@endthepods x.com
-
-A must have for every investor. includes all quarterly reports with earnings calls and transcripts in single app
-
-![play-store-avatar](https://a.storyblok.com/f/182663/401x400/8ab2ac3760/play-store-avatar.png/m/828x0/filters:quality(85))
-
-Abdulla AlnaamaGoogle Play
-
-Efficient UI/UX. Prior to Quartr I didn’t spend enough time on earnings calls. The features and UI make easy to dedicate time getting in the weeds using transcripts.
-
-![App-store-avatar.png play-store-avatar.png](https://a.storyblok.com/f/182663/401x400/98466ef2a2/app-store-avatar.png/m/828x0/filters:quality(85))
-
-YJhLoApp Store
+CEO & Investment Manager
 
 Related articles
 
@@ -364,6 +333,24 @@ Pershing Square Capital Management has grown into a top-tier hedge fund through 
 
 ### About Chipotle
 
+## The Popular Mexican Grill
+
+Chipotle Mexican Grill is a popular fast-casual restaurant chain that specializes in Mexican cuisine. The company is known for its focus on high-quality ingredients and sustainable practices. Chipotle's menu features a variety of customizable burritos, bowls, tacos, and salads, with options for vegetarians and vegans.
+
+The company's commitment to using fresh, locally sourced ingredients has earned it a loyal following of customers who appreciate the quality of its food.
+
+## The main business segments
+
+Chipotle operates through two main business segments: Restaurants and Other. The Restaurants segment includes all of the company's restaurant operations in the United States and internationally. The Other segment includes the company's non-restaurant operations, such as catering and delivery services.
+
+## Interesting facts about Chipotle
+
+Chipotle operates over 3,000 restaurants in the United States, Canada, the United Kingdom, France, and Germany. The company has a strong presence in the fast-casual restaurant industry, with a focus on providing a high-quality dining experience that is also affordable.
+
+The company was founded in 1993 in Denver, Colorado, by Steve Ells, who originally intended to open a fine-dining restaurant. However, the success of Chipotle's first location, which offered a limited menu of burritos, tacos, and salads, led the company to focus on fast-casual dining. Chipotle was actually one of the first in the fast-food industry to offer digital ordering and payment options.
+
+The company has also been recognized for its innovative marketing campaigns, such as its "Scarecrow" campaign that highlighted the importance of sustainable agriculture.
+
 ### How extensive is Quartr's coverage?
 
 ### On which platforms can I access this information?
@@ -377,7 +364,3 @@ Pershing Square Capital Management has grown into a top-tier hedge fund through 
 ### Can I create a personal watchlist of companies?
 
 ### Can I track mentions of peers and products?
-
-Explore our global coverage
-
-Search any public company...
