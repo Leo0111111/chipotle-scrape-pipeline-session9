@@ -3,14 +3,6 @@ source: https://ir.chipotle.com/management
 title: Management
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
 # Management
 
 The information provided below about Chipotle is intended to provide additional information for our investor community.  Chipotle does not warrant that this information is full or complete and investors should rely on their own resources for complete research.
@@ -19,7 +11,7 @@ The information provided below about Chipotle is intended to provide additional 
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_ScottBoatwright-320x320p.jpg) |
 
-[Scott Boatwright](https://ir.chipotle.com/undefined)
+Scott Boatwright
 
 Chief Executive Officer
 
@@ -33,7 +25,7 @@ Mr. Boatwright is a member of Business Roundtable, Business Council, and Nationa
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_AdamRymer-320x320p.jpg) |
 
-[Adam Rymer](https://ir.chipotle.com/undefined)
+Adam Rymer
 
 Chief Financial Officer
 
@@ -45,9 +37,9 @@ Mr. Rymer has a Bachelor of Business Administration degree in finance from the U
 
 |     |
 | --- |
-| ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_CurtGarner320x320.jpg) |
+| ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_Curt_Garner_320px.jpg) |
 
-[Curt Garner](https://ir.chipotle.com/undefined)
+Curt Garner
 
 President, Chief Strategy and Technology Officer
 
@@ -61,7 +53,7 @@ Mr. Garner has a Bachelor of Arts degree in economics from The Ohio State Univer
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_FernandoMachado320x320.jpg) |
 
-[Fernando Machado](https://ir.chipotle.com/undefined)
+Fernando Machado
 
 Chief Brand Officer
 
@@ -75,7 +67,7 @@ He currently serves as an Operating Partner at Garnett Station Partners, a priva
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_LaurieSchallow-320x320p.jpg) |
 
-[Laurie Schalow](https://ir.chipotle.com/undefined)
+Laurie Schalow
 
 Chief Corporate Affairs and Food Safety Officer
 
@@ -91,7 +83,7 @@ Ms. Schalow holds a Bachelor of Science degree in business from Miami University
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_IleneEskenazi-320x320p.jpg) |
 
-[Ilene Eskenazi](https://ir.chipotle.com/undefined)
+Ilene Eskenazi
 
 Chief Legal and Human Resources Officer
 
@@ -105,7 +97,7 @@ Ms. Eskenazi holds a Juris Doctorate from the University of California, Los Ange
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_JasonKidd320x320.jpg) |
 
-[Jason Kidd](https://ir.chipotle.com/undefined)
+Jason Kidd
 
 Chief Operating Officer
 
@@ -119,7 +111,7 @@ Mr. Kidd holds a Bachelor of Science in Business Administration from the Sam M. 
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_KerryBridges-320x320p.jpg) |
 
-[Kerry Bridges](https://ir.chipotle.com/undefined)
+Kerry Bridges
 
 Chief Food Safety Officer
 
@@ -133,7 +125,7 @@ Ms. Bridges is the past president of the International Association for the South
 | --- |
 | ![](https://ir.chipotle.com/image/ArlieSisson320x320.jpg) |
 
-[Arlie Sisson](https://ir.chipotle.com/undefined)
+Arlie Sisson
 
 Chief Digital Officer, Chipotle Mexican Grill
 
@@ -147,7 +139,7 @@ Sisson was named to AdWeek’s 40 under 40, contributes to Bloomberg's The Busin
 | --- |
 | ![](https://ir.chipotle.com/image/DavidVilkama_320.jpg) |
 
-[DAVID VILKAMA](https://ir.chipotle.com/undefined)
+DAVID VILKAMA
 
 Chief Development Officer, Chipotle Mexican Grill
 
@@ -163,7 +155,7 @@ Vilkama holds a Master of Architecture and a Bachelor of Science in Architecture
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_StephaniePerdue-320x320p.jpg) |
 
-[STEPHANIE PERDUE](https://ir.chipotle.com/undefined)
+STEPHANIE PERDUE
 
 Senior Vice President of Brand Marketing
 
@@ -177,7 +169,7 @@ Ms. Perdue’s accomplishments include generating record sales and profit for Fo
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_NateLawton-320x320p.jpg) |
 
-[NATE LAWTON](https://ir.chipotle.com/undefined)
+NATE LAWTON
 
 Chief Business Development Officer
 
@@ -191,7 +183,7 @@ Mr. Lawton also codeveloped and sold his own business, George Remus Bourbon, to 
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_KatherineLaird-320x320p.jpg) |
 
-[Katherine Laird](https://ir.chipotle.com/undefined)
+Katherine Laird
 
 Senior Vice President, Chief Supply Chain Officer, Chipotle
 
@@ -207,7 +199,7 @@ Laird holds a Master of Business Administration from Michigan State University a
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_Nevielle-320x320p.jpg) |
 
-[Nevielle Panthaky](https://ir.chipotle.com/undefined)
+Nevielle Panthaky
 
 Senior Vice President of Culinary
 
@@ -221,7 +213,7 @@ Mr. Panthaky holds an MBA from the University of California, Irvine’s Paul Me
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_MichaelJhonston-320x320p.jpg) |
 
-[Michael (MJ) Johnston](https://ir.chipotle.com/undefined)
+Michael (MJ) Johnston
 
 Vice President of Finance
 
@@ -235,7 +227,7 @@ He holds a Bachelor of Science in Business Administration (Finance, Economics) f
 | --- |
 | ![](https://ir.chipotle.com/image/HeadshotsOnWood_Management_GarretCalderwood-320x320p.jpg) |
 
-[Garrett Calderwood](https://ir.chipotle.com/undefined)
+Garrett Calderwood
 
 Vice President of Operations Services
 
@@ -276,5 +268,7 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
+
+(opens in a new window)
 
 Twitter Widget Iframe
