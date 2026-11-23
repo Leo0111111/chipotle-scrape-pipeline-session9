@@ -3,6 +3,12 @@ source: https://www.annualreports.com/Company/chipotle-mexican-grill-inc
 title: Chipotle Mexican Grill Inc. - AnnualReports.com
 ---
 
+![Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)
+
+![](https://cdn.userway.org/widgetapp/images/body_wh.svg)
+
+![Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)
+
 ![Chipotle Mexican Grill Inc. Banner Image](https://www.annualreports.com/img/ar/generic_header.webp)
 
 ![](https://www.annualreports.com/img/profile_premiumBadge.webp)
@@ -35,9 +41,9 @@ Social Media Links
 
 REPORT RATINGS
 
-4.6 / 5.0 (205)
+4.6 / 5.0 (206)
 
-Chipotle Mexican Grill Inc. reports have an aggregate usefulness score of 4.6 based on 205 reviews.
+Chipotle Mexican Grill Inc. reports have an aggregate usefulness score of 4.6 based on 206 reviews.
 
 ![](https://www.annualreports.com/img/profile_premiumBadge.webp)Chipotle Mexican Grill Inc.
 
